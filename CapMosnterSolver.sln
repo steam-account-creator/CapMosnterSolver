@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapMosnterSolver", "CapMosnterSolver\CapMosnterSolver.csproj", "{BC2C6594-07D2-4A1E-95F5-1151A7D533BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SACModuleBase", "ModuleBase\SACModuleBase.csproj", "{6EF56439-571F-4598-B89F-2FD4176142EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DEV_DEBUG|Any CPU = DEV_DEBUG|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2C6594-07D2-4A1E-95F5-1151A7D533BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2C6594-07D2-4A1E-95F5-1151A7D533BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2C6594-07D2-4A1E-95F5-1151A7D533BC}.DEV_DEBUG|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2C6594-07D2-4A1E-95F5-1151A7D533BC}.DEV_DEBUG|Any CPU.Build.0 = Debug|Any CPU
+		{BC2C6594-07D2-4A1E-95F5-1151A7D533BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2C6594-07D2-4A1E-95F5-1151A7D533BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF56439-571F-4598-B89F-2FD4176142EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF56439-571F-4598-B89F-2FD4176142EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF56439-571F-4598-B89F-2FD4176142EB}.DEV_DEBUG|Any CPU.ActiveCfg = DEV_DEBUG|Any CPU
+		{6EF56439-571F-4598-B89F-2FD4176142EB}.DEV_DEBUG|Any CPU.Build.0 = DEV_DEBUG|Any CPU
+		{6EF56439-571F-4598-B89F-2FD4176142EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF56439-571F-4598-B89F-2FD4176142EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9AEB7A-7287-4C63-AC44-3DB3B136CDBE}
+	EndGlobalSection
+EndGlobal
